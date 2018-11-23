@@ -1,0 +1,20 @@
+{
+  "name": "TestBower",
+  "homepage": "https://github.com/MetalGeorge/TestBower",
+  "authors": [
+    "Jorge Escobar <jorge.escobar@truextend.com>"
+  ],
+  "description": "Test",
+  "main": "index.html",
+  "keywords": [
+    "maed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
